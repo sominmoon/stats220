@@ -12,7 +12,7 @@ In my spare I love to watch *ghibli* and listen to music all the time! 💖
 
 ## ✨ Memes ✨
 
-Below is a gif from my favourite ghibli movie, *Kiki's Delivery Service*, of a character named: Kiki 💜
+Below is a gif from my favourite ghibli movie, *Kiki's Delivery Service* of a character named: Kiki 💜
 
 ![](https://c.tenor.com/xu7knlWzzDAAAAAd/kikis-delivery-service-ghibli.gif) 
 
