@@ -1,1 +1,8 @@
 # Assignment 1
+## STATS 220 Semester One 2022
+knitr::opts_chunk$set()
+### GitHub repository information
+https://github.com/sominmoon/stats220 
+In my stats220 repository, I would be sharing codes and information about the assessments in stats 220 
+### Animated GIF creation
+### Learning reflection
