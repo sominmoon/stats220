@@ -15,7 +15,7 @@ Hi welcome to my stats 220 assignment 1 website page!
  
 * Below is a gif from my favourite ghibli movie, *Kiki's Delivery Service* of a character named: Kiki 💜
 
-  * I created this gif by using a R package: [{magick}] ("https://c.tenor.com/xu7knlWzzDAAAAAd/kikis-delivery-service-ghibli.gif). 
+  * This gif is an adaption of an existing meme format by using a R package: [{magick}] (https://c.tenor.com/xu7knlWzzDAAAAAd/kikis-delivery-service-ghibli.gif). 
 
 ![](https://c.tenor.com/xu7knlWzzDAAAAAd/kikis-delivery-service-ghibli.gif) 
 
