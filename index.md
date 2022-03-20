@@ -19,7 +19,7 @@ Hi welcome to my stats 220 assignment 1 website page!
 
 ![](https://c.tenor.com/xu7knlWzzDAAAAAd/kikis-delivery-service-ghibli.gif) 
 
-I have created the gif by putting in the following code into R: 
+I have recreated the gif by putting in the following code into R: 
 
 ```r 
 ## download {magick} package 
